@@ -1,0 +1,3 @@
+# runtime — pure stdlib, no pip dependencies
+# dev
+pytest>=8.0
