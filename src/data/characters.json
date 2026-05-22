@@ -1,0 +1,19 @@
+{
+  "player": {
+    "name": "David",
+    "title": "Son of Jesse",
+    "base_stats": {
+      "health": 100,
+      "speed": 8,
+      "strength": 5,
+      "faith": 0,
+      "stealth": 6
+    },
+    "outfits": [
+      {"id": "shepherd_rags", "name": "Shepherd's Garment", "bonuses": {"stealth": 3, "speed": 1}, "unlock": "default"},
+      {"id": "linen_ephod",   "name": "Linen Ephod",        "bonuses": {"faith_regen": 2}, "unlock": "level_7_complete"},
+      {"id": "royal_armor",   "name": "Royal Armor of Israel", "bonuses": {"defense": 8}, "unlock": "level_7_complete"},
+      {"id": "jonathan_robe", "name": "Jonathan's Robe",   "bonuses": {"defense": 3}, "unlock": "level_5_complete"}
+    ]
+  }
+}

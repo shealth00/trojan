@@ -1,0 +1,11 @@
+{
+  "levels": [
+    {"id": 1, "name": "The Shepherd's Duty",      "scripture": "1 Samuel 16:11"},
+    {"id": 2, "name": "The Anointing",             "scripture": "1 Samuel 16:12-13"},
+    {"id": 3, "name": "The King's Melancholy",     "scripture": "1 Samuel 16:23"},
+    {"id": 4, "name": "The Valley of Elah",        "scripture": "1 Samuel 17"},
+    {"id": 5, "name": "Covenant of Brotherhood",   "scripture": "1 Samuel 20:42"},
+    {"id": 6, "name": "The Stronghold of Jebus",   "scripture": "2 Samuel 5:7"},
+    {"id": 7, "name": "The Crown of Israel",        "scripture": "2 Samuel 6:14"}
+  ]
+}
